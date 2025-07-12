@@ -67,7 +67,7 @@ To create a clean, fast, and user-friendly platform where people can:
 | Name            | Role                          | GitHub Username                          |
 |-----------------|-------------------------------|-------------------------------------------|
 | Krishna Gujrati |   | [@Benkrish](https://github.com/Benkrish)
-| Ratul Lakhanpal |     | [@teammember2](https://github.com/ratul-24) |
+| Ratul Lakhanpal |     | [@Ratul](https://github.com/ratul-24) |
 | Vidhi Damani    |             | [@vidhi-damani](https://github.com/vidhi-damani) |
 | Asmi Parikh     |             | [@teammember3](https://github.com/teammember3) |
 

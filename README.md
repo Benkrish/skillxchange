@@ -81,7 +81,7 @@ In today's world, knowledge is abundant—but often gated by paywalls, instituti
 | Krishna Gujrati | Full-Stack Developer          | [@Benkrish](https://github.com/Benkrish) |
 | Ratul Lakhanpal | Backend & Auth Specialist     | [@Ratul](https://github.com/ratul-24)     |
 | Vidhi Damani    | UI/UX Design & Frontend Dev   | [@vidhi-damani](https://github.com/vidhi-damani) |
-| Asmi Parikh     | Product Design & Documentation| [@asmi-parikh](https://github.com/asmi902)     |
+| Asmi Parikh     | Product Design & Frontend Developer| [@asmi-parikh](https://github.com/asmi902)     |
 
 ---
 

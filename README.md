@@ -69,7 +69,7 @@ To create a clean, fast, and user-friendly platform where people can:
 | Krishna Gujrati |   | [@Benkrish](https://github.com/Benkrish)
 | Ratul Lakhanpal |     | [@Ratul](https://github.com/ratul-24) |
 | Vidhi Damani    |             | [@vidhi-damani](https://github.com/vidhi-damani) |
-| Asmi Parikh     |             | [@teammember3](https://github.com/asmi902) |
+| Asmi Parikh     |             | [@asmi-parikh](https://github.com/asmi902) |
 
 ---
 

@@ -7,7 +7,7 @@ A seamless full-stack platform for skill swapping through peer-to-peer learning.
 
 ## 🚀 Overview
 
-**SkillXchange** is a real-time web platform that enables users to **exchange skills** with one another through **mutual swap requests**. Whether you're offering graphic design and looking to learn web development—or vice versa—SkillXchange connects people in a collaborative learning loop.
+**SkillXchange** is a real-time web platform that enables users to **exchange skills** with one another through **mutual swap requests**. Whether you're offering graphic design and looking to learn web development, or vice versa, SkillXchange connects people in a collaborative learning loop.
 
 > 🛠 Built for **Problem Statement 1: Skill Swap Platform** as part of the Hackathon Challenge.
 
@@ -70,7 +70,7 @@ In today's world, knowledge is abundant—but often gated by paywalls, instituti
 | **Deployment**| Vercel                                   |
 | **Versioning**| Git, GitHub                              |
 
-> 💡 Supabase provides instant authentication, database services, and real-time capabilities—reducing our backend effort while keeping security and speed intact.
+> 💡 Supabase provides instant authentication, database services, and real-time capabilities, reducing our backend effort while keeping security and speed intact.
 
 ---
 

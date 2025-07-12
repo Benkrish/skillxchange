@@ -66,10 +66,10 @@ To create a clean, fast, and user-friendly platform where people can:
 
 | Name            | Role                          | GitHub Username                          |
 |-----------------|-------------------------------|-------------------------------------------|
-| Krishna Gujrati | UI/UX & Frontend Development  | @Benkrish|https://github.com/Benkrish
-| Member 2    | Database & Supabase Setup     | [@teammember2](https://github.com/teammember2) |
-| Member 3    | Documentation & QA            | [@teammember3](https://github.com/teammember3) |
-| Member 4    | Documentation & QA            | [@teammember3](https://github.com/teammember3) |
+| Krishna Gujrati |   | @Benkrish|https://github.com/Benkrish
+| Member 2    |     | [@teammember2](https://github.com/teammember2) |
+| Member 3    |             | [@teammember3](https://github.com/teammember3) |
+| Member 4    |             | [@teammember3](https://github.com/teammember3) |
 
 ---
 

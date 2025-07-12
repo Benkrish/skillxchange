@@ -62,11 +62,11 @@ To create a clean, fast, and user-friendly platform where people can:
 
 ---
 
-## 👥 Team Members
+## 👥 Team Member
 
 | Name            | Role                          | GitHub Username                          |
 |-----------------|-------------------------------|-------------------------------------------|
-| Krishna Gujrati |   | @Benkrish|https://github.com/Benkrish
+| Krishna Gujrati |   | [@Benkrish](https://github.com/Benkrish)
 | Member 2    |     | [@teammember2](https://github.com/teammember2) |
 | Member 3    |             | [@teammember3](https://github.com/teammember3) |
 | Member 4    |             | [@teammember3](https://github.com/teammember3) |
